@@ -1,0 +1,4 @@
+Reflective ellipsoids 
+Command: ./raytracer 9
+Runtime: 46.130000 seconds
+Features demonstrated: render arbitrarily oriented ellipsoids, phong shading, shadows, reflections, point lights, write to png

@@ -1,0 +1,4 @@
+A room with two reflective surfaces 
+Command: ./raytracer 8
+Runtime: 13.840000 seconds
+Features demonstrated: phong shading, shadows, reflections, point lights, write to png

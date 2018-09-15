@@ -1,0 +1,11 @@
+name: Andrew Steffen
+partner: none
+platform: hive machine
+libraries used: Eigen, png++
+
+Usage: ./raytracer [scene#]
+
+where scene# is the number of the scene (01, 02, or 03).
+The scenes are hardcoded in input-01.h, input-02.h, input-03.h.
+
+The image is written to the file output.png.
