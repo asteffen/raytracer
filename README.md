@@ -1,3 +1,9 @@
+Libraries used: Eigen, png++<br/>
+Usage: ./raytracer [scene#]<br/>
+where scene# is the number of the scene (01, 02, or 03).<br/>
+The scenes are hardcoded in input-01.h, input-02.h, input-03.h.<br/>
+The image is written to the file output.png.<br/>
+
 ![img01](https://github.com/asteffen/raytracer/blob/master/imgs/image-01.png)<br/>
 A room with two reflective surfaces <br/>
 Command: ./raytracer 8<br/>
